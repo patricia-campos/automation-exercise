@@ -1,6 +1,7 @@
 # Automation Exercise 
 
 Bem-vindo(a)!
+
 Este projeto foi criado para avaliação da disciplina de Testes Web da Pós Graduação em Automação de Testes.
 
 ## 📋 Descrição do Projeto
