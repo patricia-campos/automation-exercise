@@ -6,6 +6,7 @@ Este projeto foi criado para avaliação da disciplina de Testes Web da Pós Gra
 ## 📋 Descrição do Projeto
 
 Este repositório contém uma suíte de testes automatizados desenvolvida para validar as funcionalidades críticas da aplicação web https://automationexercise.com/. 
+
 Casos de teste desenvolvidos no projeto: https://automationexercise.com/test_cases
 
 ## 🛠️ Tecnologias Utilizadas
